@@ -1,0 +1,4 @@
+circle_driver:
+  ros__parameters:
+    linear_speed: 2.0
+    angular_speed: 1.0
