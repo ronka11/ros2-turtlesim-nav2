@@ -1,6 +1,6 @@
 # ros2-turtlesim-nav2
 
-
+Submission from: Raunak Rajput
 Autonomous navigation of a TurtleBot3 (Waffle) in Gazebo Harmonic using the ROS 2 Jazzy Navigation2 (Nav2) stack. The robot crosses a field of pillars, then detects and avoids an obstacle that is not on the map. No custom navigation algorithms: this package wires up existing Nav2 components, a tuned parameter file, and a scripted demo.
 
 **Demo video:** [Video](tb3_nav2_demo/resource/final_demo_video.mp4)
